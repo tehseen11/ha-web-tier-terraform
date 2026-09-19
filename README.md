@@ -3,7 +3,7 @@
 
 Watch the complete infrastructure walkthrough:
 
-[![Watch the Demo](./brag.jpg)](./brag.mp4)
+[![▶ Watch Demo](./brag.jpg)](./brag.zip)
 
 The demo covers the AWS VPC architecture, public/private subnets,
 security groups, load balancing, EC2 instances, and Terraform deployment.
