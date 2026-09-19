@@ -1,5 +1,11 @@
 # 🚀 Highly Available Web Tier on AWS with Terraform
 
+## 🎥 Project Demo
+
+[![Watch the Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./brag.mp4)
+
+**▶️ [Watch the HA Web Tier Demo](./brag.mp4)**
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform" />
