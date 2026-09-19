@@ -3,7 +3,7 @@
 
 Watch the complete infrastructure walkthrough:
 
-[▶️ **Watch Project Demo — HA Web Tier with Terraform**](./brag.mp4)
+[![Watch the Demo](./brag.jpg)](YOUR_VIDEO_LINK)(./brag.mp4)
 
 The demo covers the AWS VPC architecture, public/private subnets,
 security groups, load balancing, EC2 instances, and Terraform deployment.
