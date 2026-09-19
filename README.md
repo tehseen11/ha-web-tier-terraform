@@ -1,5 +1,4 @@
 # 🚀 Highly Available Web Tier on AWS with Terraform
-## 🎥 Project Demo
 
 ## 🎬 Project Demo
 
