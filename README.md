@@ -1,10 +1,12 @@
 # 🚀 Highly Available Web Tier on AWS with Terraform
-
 ## 🎥 Project Demo
 
-[![Watch the Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./brag.mp4)
+Watch the complete infrastructure walkthrough:
 
-**▶️ [Watch the HA Web Tier Demo](./brag.mp4)**
+[▶️ **Watch Project Demo — HA Web Tier with Terraform**](./brag.mp4)
+
+The demo covers the AWS VPC architecture, public/private subnets,
+security groups, load balancing, EC2 instances, and Terraform deployment.
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws" />
